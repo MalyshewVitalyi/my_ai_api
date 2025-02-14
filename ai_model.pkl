@@ -1,0 +1,3 @@
+import joblib
+# ... код для обучения модели ...
+joblib.dump(model, "ai_model.pkl")
